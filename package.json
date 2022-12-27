@@ -1,7 +1,7 @@
 {
   "name": "com.littlebitgames.facebook",
   "displayName": "Facebook SDK",
-  "version": "1.0.0",
+  "version": "15.1.0",
   "unity": "2021.3",
   "unityRelease": "8f1",
   "category": "Module",
